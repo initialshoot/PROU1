@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+
+.header .navbar {
+    background-color: transparent !important;
+}
+
+li {
+    padding-inline: 20px;
+}
